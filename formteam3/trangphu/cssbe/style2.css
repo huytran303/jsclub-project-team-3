@@ -1,0 +1,110 @@
+@media only screen and (min-width: 1024px) {
+	body{
+		background-image: url("imagebe/bg.png");
+		background-size: cover;
+	}
+    .card {
+        width: 50%;
+		margin:auto;
+		box-shadow:  0 0 5px 5px rgba(4, 86, 35, 0.142);
+    }
+}
+
+/* CSS cho điện thoại */
+@media only screen and (max-width: 600px) {
+    .card {
+        width: 100%;
+		margin:auto;
+		box-shadow: none;
+		margin-top: 0;
+    }
+}
+
+*{
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "DM Sans", sans-serif;
+	/* line-height: 1.5; */
+	/* background-image: linear-gradient(to bottom,#F78301,#ecbe5e); */
+	/* background-image: url("image/bg.png"); */
+    width: 100%;
+	padding: 0 2;
+	margin: 0;
+	position: relative;
+	justify-content: center;
+	align-items: center;
+}
+
+img {
+	width: fit-content;
+	display: block;
+}
+
+.card {
+	border-radius: 15px;
+	display: flex;
+	flex-direction: column;
+	line-height:50%;
+	background-color: #FFF;
+	padding: 0.9rem;
+	top: 50%;
+    left: 50%;
+	justify-content: center;
+	position: absolute;
+	transform: translate(-50%, 50%);
+}
+
+.card-image {
+	border-radius: 10px;
+	padding-bottom: 7rem;
+	background-image: url('imagebe/LogoJS.png');
+	height:fit-content;
+	background-repeat: no-repeat;
+	background-size:contain;
+	position: relative;
+	background-position: center;
+}
+
+.action {
+	margin-top: 2rem;
+}
+
+.action-button {
+	display: block;
+	margin: auto;
+	font-size: 0.9rem;
+	padding: 1em;
+	width: 20rem;
+	background-color: #004f36;
+	cursor: pointer;
+	border-radius: 6px;
+	color: #FFF;
+	border: 0;
+	&:focus {
+		outline: 0;
+	}
+}
+.action-button:hover {
+	background-color: #00845a;
+}
+
+.card-info {
+	padding: 1rem 1rem;
+	text-align: center;
+	font-size: .875rem;
+	color: #8597a3;
+	display: block;
+	margin-top: 1.25rem;
+}
+
+.text {
+	color:#8597a3;
+	padding: 0.5rem 0.5rem;
+    text-align: center;
+    font-size: 1.27rem;
+    display: block;
+    margin-top: 1rem;
+}
+
