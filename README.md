@@ -13,13 +13,13 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TuanVuNguyen89/jsclub-team-3-project.git
+   git clone https://github.com/huytran303/jsclub-project-team-3.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd jsclub-team-3-project
+   cd jsclub-project-team-3
    ```
 
 3. Install dependencies using npm:
@@ -67,15 +67,4 @@ This will start the server and it will be accessible at `http://localhost:3000`.
     - Lê Đức Anh
     - Nguyễn Khôi
     - Nguyễn Ngọc Chi
-
-## Meeting Reports
-- [Biên bản họp lần 1](https://github.com/TuanVuNguyen89/jsclub-team-3-project/blob/master/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp%20ng%C3%A0y%201.md)
-
-- [Biên bản họp lần 2](https://github.com/TuanVuNguyen89/jsclub-team-3-project/blob/master/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp%20ng%C3%A0y%202.md)
-
-- [Biên bản họp lần 3](https://github.com/TuanVuNguyen89/jsclub-team-3-project/blob/master/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp%20ng%C3%A0y%203.md)
-
-- [Biên bản họp lần 4](https://github.com/TuanVuNguyen89/jsclub-team-3-project/blob/master/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp%20ng%C3%A0y%204.md)
-
-- [Biên bản họp lần 5](https://github.com/TuanVuNguyen89/jsclub-team-3-project/blob/master/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp/Bi%C3%AAn%20b%E1%BA%A3n%20h%E1%BB%8Dp%20ng%C3%A0y%205.md)
 
